@@ -8,4 +8,7 @@ GET http://localhost:8080/user/650e9057eda1c94561e08a3e
 
 
 ###
-GET https://three41ingame.onrender.com/
+GET https://three41ingame.onrender.com/user
+
+###
+GET https://three41ingame.onrender.com/user/650e9064eda1c94561e08a3f
