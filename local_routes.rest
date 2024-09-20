@@ -1,5 +1,8 @@
 
 // LOCALHOST
+###
+GET http://localhost:8080/
+
 ### Get all contacts
 GET http://localhost:8080/user
 
